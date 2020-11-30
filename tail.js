@@ -6,6 +6,7 @@ const tail = function(array) {
   return result;
 };
 
-const words = ["Yo Yo", "Lighthouse", "Labs"];
-console.log(tail(words)); // no need to capture the return value since we are not checking it
+// const words = ["Yo Yo", "Lighthouse", "Labs"];
+// console.log(tail(words)); // no need to capture the return value since we are not checking it
+
 module.exports = tail;

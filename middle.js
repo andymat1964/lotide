@@ -19,4 +19,4 @@ const middle = function(array) {
 }
 
 
-module.export = middle;
+module.exports = middle;
